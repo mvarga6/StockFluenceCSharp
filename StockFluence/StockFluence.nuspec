@@ -5,11 +5,12 @@
     <version>$version$</version>
     <title>$title$</title>
     <authors>Mike Varga</authors>
-    <owners>$author$</owners>
+    <owners>Mike Varga</owners>
     <iconUrl>https://www.stockfluence.com/wp-content/themes/new2/assets/img/logo_2x.png</iconUrl>
+    <projectUrl>https://github.com/mvarga6/StockFluenceCSharp.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package provides a simple-to-use client for StockFluence's public APIs</description>
-    <releaseNotes>Initial release</releaseNotes>
+    <releaseNotes>Initial production release</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>StockFluence ApiClient</tags>
   </metadata>
